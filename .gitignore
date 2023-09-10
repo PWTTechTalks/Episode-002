@@ -1,6 +1,7 @@
 # PWT Standard stuff
 .devcontainer
 .secrets
+compose-dev.yaml
 
 
 # Byte-compiled / optimized / DLL files
