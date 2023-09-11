@@ -2,6 +2,7 @@
 .devcontainer
 .secrets
 compose-dev.yaml
+.data
 
 
 # Byte-compiled / optimized / DLL files
